@@ -22,6 +22,8 @@ on:
     # The branches below must be a subset of the branches above
     branches: main
   
+  
+  
 jobs:
   FoD-SAST-Scan:
     # Use the appropriate runner for building your source code. 
